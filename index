@@ -8,38 +8,40 @@
         <link href="css/style.css" rel="stylesheet" type="text/css">
         <title>Catherine Penrod</title>
     </head>
-<body>
-    <header class="navigation">
-        <div class="inline-block">
-            <img id="logo" src="Images/Beige Minimal Personal Make Up Artist Logo.png" alt="Cat Penrod Logo">
-        </div>
-        <nav class="inline-block">
+
+    <body>
+        <header class="navigation">
+          <div class="inline-block logo">
+            <img id="logo" src="Images/Beige Minimal Personal Make Up Artist Logo.png" alt="Logo">
+          </div>
+          <nav class="inline-block">
             <ul>
-                <li>about</li>
-                <li>skills</li>
-                <li>work</li>
-                <li>contact</li>
+              <li class="inline-block">about</li>
+              <li class="inline-block">skills</li>
+              <li class="inline-block">work</li>
+              <li class="inline-block">contact</li>
             </ul>
-        </nav>
-    </header>
+          </nav>
+        </header>
+    
         <section class="heroImg">
-        <div class="content">
-            <img id="cat" src="Images/penrod.jpg" alt="Photo of Cat Penrod">
-            <p>I am a User Experience Designer with a background in communication and business. I've spent the last 20 years helping others identify and solve business problems. I truly enjoy the interplay of research, analysis, and creativity that takes place in UX.  <br>
+            <div class="content">
+              <img id="cat" src="Images/penrod.jpg" alt="Photo of Cat Penrod">
+              <p>I am a User Experience Designer with a background in communication and business. I've spent the last 20 years helping others identify and solve business problems. I truly enjoy the interplay of research, analysis, and creativity that takes place in UX.  <br>
                 <br>I like playing an active role in decision-making,  staying busy, experiencing variety, learning something new everyday, and overcoming challenges. <br>
                 <br>Personally, I am a mom to two amazing daughters, and a wife to a husband who is my biggest champion. I enjoy the beauty of design that is all around us and believe in seeing the potential in everyone and everything. <br>
                 <br>I am also a bit of a grammar nerd.</p>
-            <button>Download Resume</button>
-            <br>    
-        </div> 
+              <button>Download Resume</button>
+            </div>
+         
         <footer>
             <ul>
-                <li id="bottomNav">about</li>
-                <li id="bottomNav">skills</li>
-                <li id="bottomNav">work</li>
-                <li id="bottomNav">contact</li>
-            </ul> 
+              <li class="inline-block">about</li>
+              <li class="inline-block">skills</li>
+              <li class="inline-block">work</li>
+              <li class="inline-block">contact</li>
+            </ul>
         </footer>
         </section>
-</body>
-    </html>
+      </body>
+      

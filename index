@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="stylesheet" href="https://use.typekit.net/wfy3mbw.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet" type="text/css">
         <title>Catherine Penrod</title>
     </head>
@@ -22,17 +26,18 @@
         <div class="content">
             <img id="cat" src="Images/penrod.jpg" alt="Photo of Cat Penrod">
             <p>I am a User Experience Designer with a background in communication and business. I've spent the last 20 years helping others identify and solve business problems. I truly enjoy the interplay of research, analysis, and creativity that takes place in UX.  <br>
-                I like playing an active role in decision-making,  staying busy, experiencing variety, learning something new everyday, and overcoming challenges. <br>
-                Personally, I am a mom to two amazing daughters, and a wife to a husband who is my biggest champion. I enjoy the beauty of design that is all around us and believe in seeing the potential in everyone and everything. <br>
-                I am also a bit of a grammar nerd.</p>
-            <button>Download Resume</button>    
+                <br>I like playing an active role in decision-making,  staying busy, experiencing variety, learning something new everyday, and overcoming challenges. <br>
+                <br>Personally, I am a mom to two amazing daughters, and a wife to a husband who is my biggest champion. I enjoy the beauty of design that is all around us and believe in seeing the potential in everyone and everything. <br>
+                <br>I am also a bit of a grammar nerd.</p>
+            <button>Download Resume</button>
+            <br>    
         </div> 
         <footer>
             <ul>
-                <li>about</li>
-                <li>skills</li>
-                <li>work</li>
-                <li>contact</li>
+                <li id="bottomNav">about</li>
+                <li id="bottomNav">skills</li>
+                <li id="bottomNav">work</li>
+                <li id="bottomNav">contact</li>
             </ul> 
         </footer>
         </section>

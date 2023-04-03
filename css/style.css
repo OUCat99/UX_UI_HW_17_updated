@@ -3,6 +3,7 @@ body {
 }
 
 /* navbar CSS */
+
 nav {
     height: 100px;
     width: 73%;
@@ -13,13 +14,14 @@ nav {
 .inline-block {
     display: inline-block;
     vertical-align: top;
-
 }
+
 #logo {
     height: auto;
     width: 23%;
     padding: 1%;
     text-align: center;
+    display: inline;
 }
 
 ul {
@@ -27,11 +29,19 @@ ul {
     margin-left: auto;
 }
 
+li {
+    display: inline;
+    padding: 50px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* hero image CSS */
 
 #cat {
     height: 600px;
     padding: 25px;
+    border-radius: 50%;
 }
 
 .content {
@@ -39,8 +49,29 @@ ul {
     margin: 0 auto;
 }
 
+p {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* footer CSS */
+
 footer {
+    height: 100px;
+    width: 73%;
+    padding: 1%;
     background-color: #373738;
-    
+}
+
+li {
+    display: inline;
+    padding: 50px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#bottomNav {
+    color: white;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
 }

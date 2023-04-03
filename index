@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <title>Catherine Penrod</title>
+    </head>
+<body>
+    <header class="navigation">
+        <div class="inline-block">
+            <img id="logo" src="Images/Beige Minimal Personal Make Up Artist Logo.png" alt="Cat Penrod Logo">
+        </div>
+        <nav class="inline-block">
+            <ul>
+                <li>about</li>
+                <li>skills</li>
+                <li>work</li>
+                <li>contact</li>
+            </ul>
+        </nav>
+    </header>
+        <section class="heroImg">
+        <div class="content">
+            <img id="cat" src="Images/penrod.jpg" alt="Photo of Cat Penrod">
+            <p>I am a User Experience Designer with a background in communication and business. I've spent the last 20 years helping others identify and solve business problems. I truly enjoy the interplay of research, analysis, and creativity that takes place in UX.  <br>
+                I like playing an active role in decision-making,  staying busy, experiencing variety, learning something new everyday, and overcoming challenges. <br>
+                Personally, I am a mom to two amazing daughters, and a wife to a husband who is my biggest champion. I enjoy the beauty of design that is all around us and believe in seeing the potential in everyone and everything. <br>
+                I am also a bit of a grammar nerd.</p>
+            <button>Download Resume</button>    
+        </div> 
+        <footer>
+            <ul>
+                <li>about</li>
+                <li>skills</li>
+                <li>work</li>
+                <li>contact</li>
+            </ul> 
+        </footer>
+        </section>
+</body>
+    </html>

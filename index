@@ -33,7 +33,7 @@
                 <br>I am also a bit of a grammar nerd.</p>
               <button>Download Resume</button>
             </div>
-         
+       
         <footer>
             <ul>
               <li class="inline-block">about</li>
@@ -42,6 +42,6 @@
               <li class="inline-block">contact</li>
             </ul>
         </footer>
-        </section>
+    </section>
       </body>
       

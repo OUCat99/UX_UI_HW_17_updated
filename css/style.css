@@ -15,6 +15,7 @@ body {
   }
   
   nav {
+    text-align: end;
     width: 73%;
     padding: 1%;
     background-color: #C8D9E3;
@@ -56,6 +57,7 @@ body {
 
 /* footer CSS */
 footer {
+    text-align: end;
     width: 73%;
     padding: 1%;
     background-color: #373738;
